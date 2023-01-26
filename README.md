@@ -28,16 +28,18 @@ The four function is used to take each line from the main file.and print the out
 developed by:v.sreeja
 register number:22004463
 
-with open('fi.txt','r') as firstfile:
+with open('f1.txt','r') as firstfile:
     with open('f2.txt','a') as secondfile:
         for line in firstfile:
             secondfile.write(line)
 ```
 
 ### OUTPUT:
-![output](Screenshot%20from%202023-01-26%2013-53-21.png)
-![output](Screenshot%20from%202023-01-26%2013-53-09.png)
-![output](Screenshot%20from%202023-01-26%2013-52-40.png)
+![output](Screenshot%20from%202023-01-26%2014-15-21.png)
+![output](Screenshot%20from%202023-01-26%2014-14-53.png)
+![output](Screenshot%20from%202023-01-26%2014-15-10.png)
+
+
 
 
 ## RESULT:
