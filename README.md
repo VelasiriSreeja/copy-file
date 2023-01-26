@@ -36,8 +36,8 @@ with open('f1.txt','r') as firstfile:
 
 ### OUTPUT:
 ![output](Screenshot%20from%202023-01-26%2014-15-21.png)
-![output](Screenshot%20from%202023-01-26%2014-14-53.png)
-![output](Screenshot%20from%202023-01-26%2014-15-10.png)
+![output](Screenshot%20from%202023-01-26%2014-34-08.png)
+![output](Screenshot%20from%202023-01-26%2014-34-16.png)
 
 
 
